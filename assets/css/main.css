@@ -113,6 +113,11 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+		.headshot{
+			width: 250px;
+			height: 250px;
+		}
+
 /* Type */
 
 	html {
